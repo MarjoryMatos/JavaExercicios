@@ -13,3 +13,7 @@ Neste primeiro bloco começamos com a metodologia ágil SCRUM, para que consegui
 
 ✏ Sobre a [Generation Brasil](https://brazil.generation.org/)
 
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/86428389/165382177-ea4774ed-463e-4747-a6a9-bdde7359dd0f.png">
+</div>
