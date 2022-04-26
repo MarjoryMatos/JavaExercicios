@@ -1,5 +1,5 @@
 # Java Exercícios
-Exercícios para exercitar a lógica de programação na linguagem Java realizados no Bootcamp Generation Brasil: Pessoa Desenvolvedora Web. 
+Exercícios para exercitar a lógica de programação na linguagem Java realizados no Bootcamp Generation Brasil: Pessoa Desenvolvedora Java Web. 
 
 Durante o programa prático de 3 meses iremos dominar as habilidades necessárias para o sucesso pessoal e profissional. Todos os formandos estarão 100% preparados para o trabalho e já estamos alinhados com startups e empresas de software para entrevistas ao final do programa. A Generation Brasil apoia e nos orienta durante e depois do programa.
 
