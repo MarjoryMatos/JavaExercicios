@@ -11,7 +11,8 @@ Durante o programa prático de 3 meses iremos dominar as habilidades necessária
 ##
 Neste primeiro bloco começamos com a metodologia ágil SCRUM, para que conseguirmos trabalhar em equipe de forma ágil. Aprendemos tudo sobre lógica de programação, utilizando a linguagem Portugol para criar pequenos projetos e entender todo o universo da programação. Por fim, aplicamos os conhecimentos adquiridos em uma nova linguagem de programação: a linguagem JAVA, que norteou toda a nossa caminhada dentro do Bootcamp!
 
-✏ Sobre a [Generation Brasil](https://brazil.generation.org/)
+✏ Sobre a [Generation Brasil](https://brazil.generation.org/) </br>
+✏ [Projeto de finalização de bloco](https://github.com/MarjoryMatos/ProjetoBloco1)
 
 
 ![WhatsApp Image 2022-04-26 at 18 09 06](https://user-images.githubusercontent.com/86428389/165392857-4bbd868e-54c5-42b2-8ded-61cc074d6c5b.jpeg)
